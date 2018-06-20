@@ -85,8 +85,6 @@ $(document).ready(function () {
         }
     }
 
-
-
     function stop() {
         isRunning = false;
         clearInterval(tempTime);
